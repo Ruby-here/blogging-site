@@ -4,7 +4,7 @@ This is my personal blogging website built with HTML, CSS, and JavaScript.
 It showcases my projects, skills, and contact information.  
 
 ## 🔗 Live Demo
-[View Portfolio Website](https://ruby-here.github.io/portfolio-website/)
+[View Portfolio Website](https://ruby-here.github.io/blogging-site/)
 
 ## 🛠️ Skills  
 - HTML5 / CSS3 / JavaScript  
